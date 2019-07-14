@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc">Welcome To ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="profile_name">OKUNIYI MONSURU</string>
+    <string name="track">Track: Android</string>
+    <string name="email">Email: okuniyimonsuru@yahoo.com</string>
+    <string name="phone_number">Phone Number: 08164365700</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="user_name">Slack Username: @monsuru</string>
+</resources>
